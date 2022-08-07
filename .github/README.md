@@ -56,4 +56,4 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴢᴇɴ ✘ ʀᴏ�
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [ғᴀʟʟᴇɴ](https://github.com/AnonymousR1025/FallenRobot) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [ғᴀʟʟᴇɴ](https://github.com/L0rdHokage/FallenRobot) </b>
